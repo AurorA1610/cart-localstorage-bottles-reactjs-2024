@@ -12,3 +12,4 @@ You can access the live site [here](https://whimsical-mochi-b627bf.netlify.app/)
 - Add selected bottles to the shopping cart.
 - Cart data is stored in local storage.
 - View selected bottles in the cart.
+- Remove items from cart (although in this way, all the identical items in the cart will be removed).
