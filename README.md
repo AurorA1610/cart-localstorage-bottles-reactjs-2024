@@ -1,6 +1,6 @@
 # Bottle Shop with React.js
 
-This project is a simple React.js application that simulates a bottle shop with fake data (of course).
+This project is a simple React.js application that simulates a bottle shop with fake data.
 
 ## Live Site
 
