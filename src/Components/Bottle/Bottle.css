@@ -1,0 +1,28 @@
+.bottle {
+  border: 2px solid silver;
+  padding: 10px;
+}
+.bottle img {
+  width: 100%;
+}
+
+.bottle button {
+  background-image: linear-gradient(
+    -180deg,
+    rgb(105, 160, 148),
+    rgb(49, 102, 91)
+  );
+  border-radius: 5px;
+  cursor: pointer;
+  height: 44px;
+  padding: 0 10px;
+  border: 0;
+  color: white;
+}
+
+.bottle button:hover {
+  background: rgb(49, 102, 91);
+}
+.bottle button:active{
+    transform: translateY(4px);
+}

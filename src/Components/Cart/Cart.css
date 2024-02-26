@@ -1,0 +1,17 @@
+.cart-container {
+  background-color: rgb(207, 204, 165);
+  padding: 15px;
+}
+.cart {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.cart div {
+  border: 1px solid rgb(101, 75, 56);
+  padding: 5px 15px;
+  margin: 10px 0;
+}
+.cart div img {
+  width: 150px;
+}
